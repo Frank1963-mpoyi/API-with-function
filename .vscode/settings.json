@@ -1,0 +1,18 @@
+{
+    "python.linting.banditEnabled": true,
+    "python.linting.prospectorEnabled": true,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.pydocstyleEnabled": true,
+    "python.linting.pylamaEnabled": true,
+    "python.linting.flake8CategorySeverity.W": "Error",
+    "python.linting.flake8Enabled": true,
+    "python.linting.mypyEnabled": true,
+    "python.linting.pycodestyleCategorySeverity.E": "Hint",
+    "python.linting.flake8CategorySeverity.E": "Hint",
+    "python.linting.pycodestyleCategorySeverity.W": "Hint",
+    "javascript.implicitProjectConfig.experimentalDecorators": true,
+    "javascript.referencesCodeLens.showOnAllFunctions": true,
+    "workbench.settings.useSplitJSON": true,
+    "json.trace.server": "messages",
+    "javascript.implicitProjectConfig.checkJs": true
+}
